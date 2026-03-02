@@ -1,3 +1,8 @@
+---
+name: diorama-skills
+description: Helps users build browser-based slide-decks using the @sambego/diorama library.
+---
+
 # Diorama — React Slideshow Library
 
 Diorama is a React 18 component library for building browser-based slide-deck presentations. It is designed to work inside Next.js (App Router) projects.
