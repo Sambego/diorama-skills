@@ -1,6 +1,6 @@
 # Diorama — React Slideshow Library
 
-Diorama is a React 18 component library for building slide-deck presentations. It is designed to work inside Next.js (App Router) projects.
+Diorama is a React 18 component library for building browser-based slide-deck presentations. It is designed to work inside Next.js (App Router) projects.
 
 ## Scaffolding a new presentation
 
